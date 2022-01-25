@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("./galaxy.gif");
+}
+
+h1{
+    margin-top: 5rem;
+    color: white;
+    text-align: center;
+}
+
+#input{
+    text-align: center;
+}
+
